@@ -7,8 +7,8 @@ This repository contains my work from CS 255: Systems Analysis and Design at Sou
 
 | Document | Description |
 | --- | --- |
-| [Business Requirements Document](DriverPass_Business_Requirements.docx) | Project One identifies the client's needs, system requirements, and project constraints. |
-| [System Design Document](DriverPass_System_Design.docx) | Project Two includes the use case, activity, sequence, and class diagrams, along with technical requirements. |
+| [Business Requirements Document](https://github.com/ashleyp3/CS-255-System-Design---DriverPass/blob/main/CS%20255%20DriverPass%20Business%20Requirements%20-%20Ashley%20Pleasant2.docx) | Project One identifies the client's needs, system requirements, and project constraints. |
+| [System Design Document](https://github.com/ashleyp3/CS-255-System-Design---DriverPass/blob/main/DriverPass_System_Design1.docx) | Project Two includes the use case, activity, sequence, and class diagrams, along with technical requirements. |
 
 ## Project Reflection
 
